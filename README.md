@@ -1,4 +1,12 @@
 # PHP_basic
+lesson_8_in_progress... on 12/11/2021
+
+lesson_7_in_progress...  on 10/11/2021
+
+lesson_6_in_progress... on 08/11/2021
+
+lesson_5_finished // Восстановил доступ к серверной части mysql, разобрался с phpMyAdmin. Библиотеку funcimgResize.php стащил и подправил под себя. Не сам писал. Но с задачей справился.
+
 lesson_4_finished // Разобрался с $_FILES. Дз решал на примере проекта с похожими задачами. В теме теперь разбираюсь.
 
 lesson_3__finished
